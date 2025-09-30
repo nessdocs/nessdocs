@@ -5,7 +5,7 @@ I love reading! I read mostly for entertainment, but will sometimes crack open a
 Other hobbies include watercolor painting, playing videos games (mostly RPGs both retro and modern), 
 and working on modlists for Skyrim but never getting to play. 
 
-Currently redoing my entire portfolio. Know any open source projects that need user documentation? Send me a message and I'll take a look. :D 
+Currently redoing my entire portfolio. Know any open source projects that need user documentation? Send me a message and I'll take a look.
 
 <!---
 nessdocs/nessdocs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
